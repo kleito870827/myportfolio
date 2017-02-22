@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Chat",
+    "imgUrl": "img/works/chat.png",
+    "description": "description1"
+  },
+  {
+    "name": "Flappy Bird",
+    "imgUrl": "img/works/flappybird.png",
+    "description": "description2"
+  },
+  {
+    "name": "Sudoku",
+    "imgUrl": "img/works/sudoku.png",
+    "description": "description3"
+  }
+]
